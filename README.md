@@ -143,6 +143,6 @@ Console type is detected by checking button mapping:
 You may use, modify, and distribute this plugin freely.
 Please include attribution to "@manee_too" in your game credits.
 
-Full License: [LICENSE](https://github.com/maneetoo/Roblox-Platform-Detection/edit/main/LICENSE)
+Full License: [LICENSE](https://github.com/maneetoo/Roblox-Platform-Detection/blob/main/LICENSE)
 
 ---
